@@ -12,10 +12,16 @@
    ========================================================================== */
 
 html {
-  color: #222;
+  color: #AAA;
   font-size: 1em;
   line-height: 1.4;
+  background-color: #222222;
 }
+
+body {
+
+}
+
 
 /*
  * Remove text-shadow in selection highlight:
